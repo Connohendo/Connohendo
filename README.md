@@ -1,15 +1,27 @@
 ## Hi there 👋
 
-I'm [Connor](https://connohendo.github.io/) a Software Engineer based in MA, USA. I love solving problems through code with emphasis on reliability and performance.
------------------------------------------------------------------------------------------------------------------------------------
-Lately I've been working with:
- - Python, SQL, AI models
- - Cloud platforms: Azure, AWS
------------------------------------------------------------------------------------------------------------------------------------
-In my day job I’m currently working on many AI workflows for various clients spanning from general ai models such as Ollamas to process video to niche need models like AssemblyAI for working with audio.
------------------------------------------------------------------------------------------------------------------------------------
-I want to learn more about:
- - AI/ML
- - Cloud Infrastructure
------------------------------------------------------------------------------------------------------------------------------------
-In my free time I'm working on a SAAS solution to getting hired using AI.
+I'm [Connor](https://connohendo.github.io/), a Software Engineer based in MA, USA. I enjoy solving real-world problems through code, with a strong focus on reliability, performance, and clean system design.
+
+**Lately, I’ve been working with:**
+- Python, SQL, and modern AI models  
+- Cloud platforms like Azure and AWS  
+
+---
+
+### What I do
+
+In my day job, I build and maintain AI-driven workflows for a variety of clients—ranging from general-purpose models like Ollama for video processing to more specialized tools such as AssemblyAI for audio transcription and analysis.
+
+---
+
+### What I’m learning
+
+I’m currently diving deeper into:
+- AI / Machine Learning  
+- Cloud infrastructure and scalable system architecture  
+
+---
+
+### Outside of work
+
+In my free time, I’m building a SaaS platform focused on helping people get hired using AI.
